@@ -1,0 +1,10 @@
+404.html
+*.xml
+*.txt
+js/
+doc/
+site.webmanifest
+.editorconfig
+.gitattributes
+.htaccess
+
